@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="play_again">Play Again</string>
+    <string name="score_board">Scoreboard</string>
+    <string name="red_0">Red : 0</string>
+    <string name="yellow">Yellow : 0</string>
+    <string name="new_game">New Game</string>
+    <string name="draw"> Draw! </string>
+    <string name="drawIni">Draw : 0</string>
+</resources>
